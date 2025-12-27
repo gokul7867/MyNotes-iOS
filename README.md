@@ -1,0 +1,6 @@
+- UIKit (Programmatic UI)
+- MVVM Architecture
+- Core Data
+- Unit Testing (XCTest)
+- Search & Filter
+- Favorite Notes
